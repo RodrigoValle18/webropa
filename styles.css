@@ -67,6 +67,11 @@ section{
     transition: transform 0.3s ease; 
 }
 
+.foto a{
+    text-decoration: none;
+    color: #212429;
+}
+
 .foto img {
     max-width: 100%;
     height: auto;
@@ -79,7 +84,7 @@ section{
     margin-bottom: 8px;
 }
 
-div.foto a img footer {
+.foto a img footer {
     font-size: 14px;
     text-decoration: none;
     color: #212429;
