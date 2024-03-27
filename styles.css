@@ -52,6 +52,7 @@ hr {
 section{
     margin-left: 4rem;
     margin-right: 4rem;
+    margin-bottom: 2rem;
 }
 .container {
     display: grid;
@@ -70,6 +71,8 @@ section{
 .foto a{
     text-decoration: none;
     color: #212429;
+    font-size: 14px;
+    font-weight: bold;
 }
 
 .foto img {
@@ -82,12 +85,6 @@ section{
     font-size: 14px;
     margin-top: 16px;
     margin-bottom: 8px;
-}
-
-.foto a img footer {
-    font-size: 14px;
-    text-decoration: none;
-    color: #212429;
 }
 
 .foto:hover {
@@ -113,6 +110,7 @@ footer a {
 
 footer img {
     vertical-align: middle;
+    
     margin-right: 8px;
 }
 
